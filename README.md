@@ -252,3 +252,4 @@ Untuk pertanyaan atau dukungan terkait proyek ini, silakan hubungi pengembang.
 ---
 
 **Catatan**: Ini adalah prototype/MVP untuk keperluan skripsi. Untuk implementasi production, diperlukan backend, database, dan fitur keamanan tambahan.
+"# portal-warehouse" 
